@@ -1,4 +1,4 @@
-# HTMLMac
+HTMLMac
 
 ***HTMLMac*** is a *PowerShell* script which allows to create static *PowerShell* macros in an *HTML* page, ...
 
@@ -44,7 +44,7 @@ These last two commands assume that you have installed Python and Pygment on you
 
 ## To do
 
-* --I intend to add commands to insert mathematical formulas,--
+* <del>I intend to add commands to insert mathematical formulas,</del> in the file **HTMLMacLatex.ps1**
 * better detect any errors, 
 * allow to add customized functions,
 * write another script modifying only the given file or only the files specified in other file.
